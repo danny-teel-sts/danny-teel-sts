@@ -1,7 +1,7 @@
-## Hi there 👋
 - 👋 Hi, I’m @danny-teel-sts
-- 🏢 This is my work account
-- 📫 How to reach me - message me via LinkedIn
+- 🏢 This is my work account that is used solely for work
+- 🏡 My [personal account](https://github.com/TheManOfTeel/TheManOfTeel) is used for all side projects and practice
+- 📫 How to reach me - message me via [LinkedIn](https://www.linkedin.com/in/daniel-teel-a6465017b)
 
 <!--
 **danny-teel-sts/danny-teel-sts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
