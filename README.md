@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 👋 Hi, I’m @danny-teel-sts
+- 🏢 This is my work account
+- 📫 How to reach me - message me via LinkedIn
 
 <!--
 **danny-teel-sts/danny-teel-sts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
